@@ -1,0 +1,21 @@
+Animal name: name needed, Age: 4, Species: hyena, Sex: female, Color: tan color, BirthInfo: spring-2020
+Animal name: name needed, Age: 12, Species: hyena, Sex: male, Color: brown color, BirthInfo: fall-2012
+Animal name: name needed, Age: 4, Species: hyena, Sex: male, Color: black color, BirthInfo: spring-2020
+Animal name: name needed, Age: 8, Species: hyena, Sex: female, Color: black and tan striped color, BirthInfo: season-2016
+Animal name: name needed, Age: 6, Species: lion, Sex: female, Color: tan color, BirthInfo: spring-2018
+Animal name: name needed, Age: 12, Species: lion, Sex: female, Color: dark tan color, BirthInfo: winter-2012
+Animal name: name needed, Age: 22, Species: lion, Sex: male, Color: golden color, BirthInfo: fall-2002
+Animal name: name needed, Age: 4, Species: lion, Sex: female, Color: tan and brown color, BirthInfo: spring-2020
+Animal name: name needed, Age: 2, Species: tiger, Sex: male, Color: gold and tan stripes color, BirthInfo: spring-2022
+Animal name: name needed, Age: 4, Species: tiger, Sex: female, Color: black stripes color, BirthInfo: spring-2020
+Animal name: name needed, Age: 18, Species: tiger, Sex: male, Color: gold and tan color, BirthInfo: fall-2006
+Animal name: name needed, Age: 3, Species: tiger, Sex: female, Color: black stripes color, BirthInfo: spring-2021
+Animal name: name needed, Age: 7, Species: bear, Sex: male, Color: brown color, BirthInfo: spring-2017
+Animal name: name needed, Age: 25, Species: bear, Sex: female, Color: black color, BirthInfo: spring-1999
+Animal name: name needed, Age: 4, Species: bear, Sex: female, Color: black color, BirthInfo: fall-2020
+Animal name: name needed, Age: 4, Species: bear, Sex: male, Color: brown color, BirthInfo: spring-2020
+Total number of new animals is: 16
+Number of Hyenas is: 4
+Number of Tigers is: 4
+Number of Lions is: 4
+Number of Bears is: 4
